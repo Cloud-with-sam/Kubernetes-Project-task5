@@ -39,7 +39,6 @@ Make sure Docker Desktop is running, then start Minikube using the Docker driver
 
 minikube start --driver=docker
 
-<img width="1915" height="1079" alt="Screenshot 2025-09-29 112020" src="https://github.com/user-attachments/assets/0edc29a7-f8ed-409e-9f55-0a6d5406eb68" />
 <img width="1919" height="938" alt="Screenshot 2025-09-29 112008" src="https://github.com/user-attachments/assets/db3be3a9-557b-4f19-9cdf-38b27338f3db" />
 <img width="1918" height="1079" alt="Screenshot 2025-09-29 111921" src="https://github.com/user-attachments/assets/67581d58-0bc7-4e32-a23c-72f98a882b8b" />
 <img width="1918" height="1079" alt="Screenshot 2025-09-29 111718" src="https://github.com/user-attachments/assets/09eb120b-6059-4561-a42f-45ae060d4495" />
