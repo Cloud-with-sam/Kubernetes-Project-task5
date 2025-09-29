@@ -47,3 +47,6 @@ minikube start --driver=docker
 <img width="1918" height="1077" alt="Screenshot 2025-09-29 110440" src="https://github.com/user-attachments/assets/f5933255-52e7-4e1c-b924-062ddd858a86" />
 <img width="1919" height="1074" alt="Screenshot 2025-09-29 110024" src="https://github.com/user-attachments/assets/2ec0db74-401d-4ae0-80a6-8760cf914187" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 110001" src="https://github.com/user-attachments/assets/3023c087-dcfc-4452-a231-1af31129c717" />
+
+Lastly, deleted minikube cluster using command (minikube delete)
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 113834" src="https://github.com/user-attachments/assets/ee145af1-14f2-49cc-b55e-9124c318b954" />
