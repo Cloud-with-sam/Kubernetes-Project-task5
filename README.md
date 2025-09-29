@@ -37,7 +37,6 @@ It includes:
 
 Make sure Docker Desktop is running, then start Minikube using the Docker driver:
 
-```powershell
 minikube start --driver=docker
 
 <img width="1915" height="1079" alt="Screenshot 2025-09-29 112020" src="https://github.com/user-attachments/assets/0edc29a7-f8ed-409e-9f55-0a6d5406eb68" />
